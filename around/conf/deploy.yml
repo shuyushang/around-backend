@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://10.138.0.2:9200"
+  username: "essyiyule"
+  password: "ssyclm"
+
+gcs:
+  bucket: "stay-around-bucket"
+
+token:
+  secret: "secret"
