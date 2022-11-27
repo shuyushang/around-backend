@@ -1,4 +1,4 @@
-# A React and Cloud Based Social Network Web Application
+# A React and Cloud Based Social Network Web Application (Back End)
 
 Designed and implemented features for users to create and browse posts; features also support the searching of the posts via keywords and users.
 
